@@ -1,18 +1,18 @@
 # My Coding Notebook
 
 ## Table of Contents
-- [Day 1](#day-1)
-  - [Notes](#notes)
-  - [Practice](#practice)
+- [Flutter Notes](#flutter-notes)
+  - [What is Flutter](#what-is-flutter)
+  - [Key Terms And Definitions](#key-terms-and-definitions)
 - [Day 2](#day-2)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
 
-
-
+## Flutter Notes
 
 ### What is Flutter?
-- Definition:
+- Definition: A framework made my google for building apps that work on web, Android, and iOS- with one code base
 - Why is it useful?
 
 ---
@@ -21,18 +21,20 @@
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
-| Scaffold         |                                                  |                                           |
-| StatelessWidget  |                                                  |                                           |
-| StatefulWidget   |                                                  |                                           |
-| Navigator        |                                                  |                                           |
-| AppBar           |                                                  |                                           |
-| Column           |                                                  |                                           |
-| Row              |                                                  |                                           |
-| Container        |                                                  |                                           |
-| Text             |                                                  |                                           |
-| Image.network    |                                                  |                                           |
+| Widget           |        Basic block of a Flutter app. Everything is a widget.                                          | Text, image, container,column                                          |
+| MaterialApp      |        The root of the app. Sets up routes and themes.                                          | Found in main. dart                                          |
+| Scaffold         |        provides basic visual layout-like a header, body, floating button                                          |                                           |
+| StatelessWidget  |        A widget that doesnt change                                          |                                           |
+| StatefulWidget   |        A widget that can change over time                                          |                                           |
+| Navigator        |        Manages screen transtions                                          |                                           |
+| AppBar           |        Top navigation bar                                          |                                           |
+| Column           |        vertical layout                                          |                                           |
+| Row              |        horizontal layout          |                                           |
+| Container        |        wraps content with padding, margin, or color                                         |                                           |
+| Text             |        displays text                                          |                                           |
+| Image.network    |        displays images from a URL                                          |                                           |
+
+
 
 ---
 
@@ -42,8 +44,6 @@
 - What widget adds space around content?
 
 
-
-[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 ## Markdown Style Guide for Coding Notebooks
 
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
