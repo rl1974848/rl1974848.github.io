@@ -47,9 +47,9 @@
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
-|   variable   | A named container used to store a value that may change. | `var x = 5;` |  |  |
-|  constant    | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
-|   data type   | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
+|   variable   | A named container used to store a value that may change. | `var x = 5;` | height is 4,9 |  |
+|  constant    | A fixed value that cannot change once set. | `const PI = 3.14;` | logo |  |
+|   data type   | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | number vs fabric |  |
 |   string   | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
 |   integer   | Whole number values. | `int age = 16;` |  |  |
 |   double   | Number values with decimals. | `double age = 16.2;` |  |  |
