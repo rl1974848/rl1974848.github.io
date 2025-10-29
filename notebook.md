@@ -97,6 +97,16 @@
 |   abstraction   | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | a remote control |  |
 |   override   | Changing how a built-in or inherited function behaves. | `@override` |a circle and rectangle  |  |
 |    void  | A function that does not return a value. | `void printMessage() {}` | " print this document" or" turn on the light" |  |
+|scanner|creates a scanner object to take input from user|Scanner in = new Scanner (System.in);|||
+|import scanner|Gives access to Scanner class, reqired at top|import java.util.scanner; |||
+|print line statement|prints whats in the parethesis, adds line after||||
+|print statement|prints the content in the parenthesis||||
+|input nextLine|reads in a string from the user||||
+|input nextInt|reads in an int from the user||||
+|input nextDouble|reads in a double (decimal) from the user||||
+|input nextBoolean|reads in a boolean (true/false) from the user||||
+|arithmetic operators|  -  *  /  % (modulus, returns the remainder||||
+|compound operators|||||
 ## Markdown Style Guide for Coding Notebooks
 
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
