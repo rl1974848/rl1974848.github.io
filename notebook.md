@@ -107,6 +107,10 @@
 |input nextBoolean|reads in a boolean (true/false) from the user||||
 |arithmetic operators|  -  *  /  % (modulus, returns the remainder||||
 |compound operators|||||
+|maximum int|the max value an int can hold: 2147483647|integer.MAX_VALUME|||
+|minimum int|the minimum value an int can hold: -2147483648|integer.MIN_VALUE|||
+|integer overFlow|integer.MAX_VALUE + 1 == MIN_VALUE, it wraps around||||
+
 ## Markdown Style Guide for Coding Notebooks
 
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
