@@ -110,6 +110,11 @@
 |maximum int|the max value an int can hold: 2147483647|integer.MAX_VALUME|||
 |minimum int|the minimum value an int can hold: -2147483648|integer.MIN_VALUE|||
 |integer overFlow|integer.MAX_VALUE + 1 == MIN_VALUE, it wraps around||||
+|integer underflow||||
+|round-off error|||||
+|overloaded method/function or constructor |uses the same name, but has different parameters |pizza(), pizza (string toppings) 2 constructors, first is a default cheese pizza, 2nd has 1 topping|||
+|dot notation |methods are called on objects using a dot after the object name|object.method(vaule);|||
+|concatnate|to combine strings with other strings and/or variables|strings greeting = "Hello" + " my name is " + name". ";|||
 
 ## Markdown Style Guide for Coding Notebooks
 
