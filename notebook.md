@@ -115,7 +115,8 @@
 |overloaded method/function or constructor |uses the same name, but has different parameters |pizza(), pizza (string toppings) 2 constructors, first is a default cheese pizza, 2nd has 1 topping|||
 |dot notation |methods are called on objects using a dot after the object name|object.method(vaule);|||
 |concatnate|to combine strings with other strings and/or variables|strings greeting = "Hello" + " my name is " + name". ";|||
-
+|algorithms|define step by step processes to follow when completing a task or solving a problem |no syntax|make a grilled cheese|verify user|
+|sequencing|define an order for when steps in an algorithm are completed|follows 1,2,3|which step comes first in making a grilled cheese||
 ## Markdown Style Guide for Coding Notebooks
 
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
