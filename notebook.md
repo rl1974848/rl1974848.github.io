@@ -126,7 +126,8 @@
  -strings have indices (plural for index,)
 
  
-<img width="3840" height="1230" alt="image" src="https://github.com/user-attachments/assets/326e0eff-58e3-4605-9551-845fa91847d7" />
+<img width="856" height="422" alt="image" src="https://github.com/user-attachments/assets/f7b4d7f6-2adf-4072-bb02-a1215642e36d" />
+
 
 ## Markdown Style Guide for Coding Notebooks
 
