@@ -117,6 +117,17 @@
 |concatnate|to combine strings with other strings and/or variables|strings greeting = "Hello" + " my name is " + name". ";|||
 |algorithms|define step by step processes to follow when completing a task or solving a problem |no syntax|make a grilled cheese|verify user|
 |sequencing|define an order for when steps in an algorithm are completed|follows 1,2,3|which step comes first in making a grilled cheese||
+|index|location value of each charactor  in a string or list, starting at 0 |"hello" index of 'e' is 1|||
+|substring | part of a larger string | "llo" is a substring of "hello"|||
+
+
+[string notes](#string-notes)
+### string notes
+ -strings have indices (plural for index,)
+
+ 
+<img width="3840" height="1230" alt="image" src="https://github.com/user-attachments/assets/326e0eff-58e3-4605-9551-845fa91847d7" />
+
 ## Markdown Style Guide for Coding Notebooks
 
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
